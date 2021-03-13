@@ -27,4 +27,4 @@ Probabilidade de evento neutro: 0.9
 Talento: gaussiano ,média 0.6, sigma 0.1
 
 
-Na apresentação de slides em pdf há os gráficos com os resultados da simulação, bem como uma segunda proposta de modelo.
+Na apresentação de slides em pdf há gráficos com os resultados das simulações, bem como uma segunda proposta de modelo.
