@@ -27,4 +27,4 @@ Probabilidade de evento neutro: 0.9
 Talento: gaussiano ,média 0.6, sigma 0.1
 
 
-Na apresentação de slides em pdf há gráficos com os resultados das simulações, bem como uma segunda proposta de modelo.
+_Na apresentação de slides em <a href="https://github.com/limadlp/LuckvsTalent/blob/master/luck%20vs%20talent%20(slides).pdf" target="blank">pdf</a> há gráficos com os resultados das simulações, bem como uma segunda proposta de modelo._
